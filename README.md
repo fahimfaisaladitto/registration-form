@@ -3,6 +3,8 @@
 <h2 align="left">Link: https://fahimfaisaladitto.github.io/registration-form/ </h2>
 
 # Screenshots
+<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (17)" src="https://github.com/user-attachments/assets/4978d5f9-993e-450d-bebf-81d47845177f" />
+<img width="403" height="819" alt="iPhone-13-PRO-fahimfaisaladitto github io (18)" src="https://github.com/user-attachments/assets/3e4bb196-af3b-42cb-a6a2-427d8c687fe6" />
 
 
 
